@@ -1,6 +1,4 @@
-Of course bro — here is your full **README.md in pure Markdown format**, exactly how you should paste it into GitHub.
 
-Just copy it **as-is** into your `README.md` file.
 
 ---
 
